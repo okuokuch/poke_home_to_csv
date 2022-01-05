@@ -1,0 +1,2 @@
+# poke_home_to_csv
+ポケモンHOMEの使用率データをcsv形式で保存する
